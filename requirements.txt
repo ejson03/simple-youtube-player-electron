@@ -1,0 +1,4 @@
+flask
+flask_cors
+https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+pywin32
